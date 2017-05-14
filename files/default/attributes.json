@@ -1,0 +1,20 @@
+{
+  "customize_cookbook": "themis-finals-customize-rcc-2017",
+  "frontend_customize_module": "frontend/customize.js",
+  "frontend_extra_files": {
+    "frontend/rcc-logo.svg": "src/images/rcc-logo.svg",
+    "frontend/rcc-notify-logo.png": "src/images/rcc-notify-logo.png"
+  },
+  "team_logo_files": {
+    "logo/MosPolytech.png": "team1.png",
+    "logo/ufologists.png": "team2.png",
+    "logo/Koibasta.png": "team3.png",
+    "logo/Bushwhackers.png": "team4.png",
+    "logo/SUSlo.PAS.png": "team5.png",
+    "logo/Pixels.png": "team6.png",
+    "logo/Corrupted Reflection.png": "team7.png",
+    "logo/BalalaikaCr3w.png": "team8.png",
+    "logo/FTI_CFU.png": "team9.png",
+    "logo/Espacio.png": "team10.png"
+  }
+}
